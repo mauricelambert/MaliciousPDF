@@ -1,0 +1,10 @@
+LICENSE.txt
+MANIFEST.in
+MaliciousPDF.py
+README.md
+setup.py
+MaliciousPDF.egg-info/PKG-INFO
+MaliciousPDF.egg-info/SOURCES.txt
+MaliciousPDF.egg-info/dependency_links.txt
+MaliciousPDF.egg-info/entry_points.txt
+MaliciousPDF.egg-info/top_level.txt
